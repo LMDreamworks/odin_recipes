@@ -12,3 +12,7 @@ Skills Utilized:
 - Paragraphs
 - Images
 - Lists, ordered and unordered
+
+Deployed via github:
+
+LMDreamworks.github.io/odin_recipes
