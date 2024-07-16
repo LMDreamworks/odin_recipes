@@ -1,0 +1,13 @@
+.headerBackground {
+    background-color: rgb(108, 108, 192);
+    padding: 30px;
+    
+}
+
+.headerText {
+    text-align: center;
+}
+
+.pageBackground {
+    background-color: gray;
+}
