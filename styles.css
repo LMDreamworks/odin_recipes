@@ -1,7 +1,15 @@
+.siteSection {
+    max-width: 800px;
+}
+
 .headerBackground {
     background-color: rgb(108, 108, 192);
     padding: 30px;
-    
+    background-image: url(./images/pexels-harrisonhaines-3536278.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    border-radius: 25px;
 }
 
 .headerText {
@@ -9,5 +17,33 @@
 }
 
 .pageBackground {
+
     background-color: gray;
+}
+
+.containerLeft {
+    padding: 0px;
+    margin: 0 auto;
+    min-width: 200px;
+    max-width: 500px;
+    background-color: rgb(49, 169, 238);
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.containerRight {
+    width-min: 200px;
+    max-width: 1000px;
+    background-color: rgb(33, 104, 145);
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+.container {
+    width-max: 1200px;
+    display: flex;
 }
